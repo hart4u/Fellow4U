@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "567579562580",
+    "firebase_url": "https://fellow4u-fcm-id.firebaseio.com",
+    "project_id": "fellow4u-fcm-id",
+    "storage_bucket": "fellow4u-fcm-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567579562580:android:ec5a24e637c490a8",
+        "android_client_info": {
+          "package_name": "com.primarynet.fellow4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567579562580-3902ocvkog6p8j7p58ilagt4epd1hdl6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "567579562580-3902ocvkog6p8j7p58ilagt4epd1hdl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtQrgIGaS-mb8FwFWqItmVhrnh9H1egA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
